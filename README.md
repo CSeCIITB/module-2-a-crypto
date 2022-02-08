@@ -1,2 +1,3 @@
-# module-2-crypto
-Module 2 for YoS on cryptography
+# Module-2 (Cryptography)
+
+Welcome to the second module of Year of Security!
