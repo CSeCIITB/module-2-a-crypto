@@ -5,3 +5,6 @@ Could you help me uncover the deep dark secret he was hiding underneath a secret
 <br />
 <br />
 _**Note:** To get the flag, replace all spaces with '\_' in the decryption of the message._
+
+## Submission Instructions
+Type out the flag in the `flag.txt` file in this folder.
