@@ -1,4 +1,4 @@
-# Module-2 (Cryptography)
+# Module-2 Part-1 (Classical Cryptography)
 
 Welcome to the second module of Year of Security! This is Week 1 of Module 2 : Cryptography. 
 
