@@ -89,3 +89,10 @@ Base64 is a kind of encoding where each character represents one of 64 integers.
 # Challenges
 So we have two challenges lined up for you this time: _Ones And Zeroes_ and _Tripartite_. Don't be disheartened if solving them isn't obvious to you. Challenges in classical cryptography often require a lot of creativity and ingenuity, and it's not necessary nor important in your cybersec career to be really strong in classical cryptography. Consider these challenges as puzzles and give them a whirl! And remember, neither have we covered all the classical ciphers in this article (there are too many out there, all for you to explore) nor can there ever be an exhaustive list of ways one could encrypt messages. <br />
 From next week, the content will be a lot more structured and the context of the challenges will be a lot more obvious as we transition into modern cryptography, which is the actual cryptography used in the digital world. So enjoy the puzzles and creative freedom you possess while they last!
+
+
+All in all, you would need to solve **atleast 2 challenges throughtout the module** but we encourage that you solve all of these, for things are more fun that way 😊.
+Make sure you go through the respective `README.md` files before jumping into the challenge. Have fun! 😁
+
+Discussions among mentees are encouraged and we request you to use our [Discord Server](https://discord.gg/nnpCPsUrYV) for the same.
+<p align="center">Created with :heart: by <a href="https://linktr.ee/csec.iitb">CSec</a></p>
